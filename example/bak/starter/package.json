@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mk-server": "^0.2.2",
-    "mk-service-auth": "^0.0.2",
-    "mk-service-db": "^0.0.2"
+    "fk-server": "^1.0.0",
+    "fk-service-auth": "^1.0.0",
+    "fk-service-db": "^1.0.0"
   }
 }

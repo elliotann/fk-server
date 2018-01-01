@@ -1,4 +1,4 @@
-const { config, start } = require('mk-server');
+const { config, start } = require('fk-server');
 const auth = require('./services/auth')
 const person = require('./services/person')
 const user = require('./services/user')

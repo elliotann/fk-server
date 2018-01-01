@@ -1,4 +1,4 @@
-const { config, start } = require("mk-server")
+const { config, start } = require("fk-server")
 const serverConfig = require( "./config")
 
 const person = require("./services/person/index.js")

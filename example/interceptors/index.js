@@ -1,4 +1,4 @@
-const { config, start } = require('mk-server');
+const { config, start } = require('fk-server');
 
 function myInterceptor(ctx) {
     let _realHandler = ctx.handler

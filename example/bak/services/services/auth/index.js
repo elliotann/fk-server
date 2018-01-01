@@ -1,1 +1,1 @@
-module.exports = require('mk-service-auth')
+module.exports = require('fk-service-auth')

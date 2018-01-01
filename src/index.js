@@ -2,7 +2,7 @@ const config = require('./config')
 const { start } = require('./api')
  
 module.exports = {
-    name: "mk-server",
+    name: "fk-server",
     version: "",
     description: "",
     author: "lsg",
