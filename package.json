@@ -1,0 +1,24 @@
+{
+  "name": "fk-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotann/fk-server.git"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliotann/fk-server/issues"
+  },
+  "homepage": "https://github.com/elliotann/fk-server#readme",
+  "dependencies": {
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0"
+  }
+}
